@@ -46,3 +46,8 @@ function makeInt(n)
   convertStr = parseInt(n, 10)
   return convertStr
 }
+
+function preserveDecimal(n)
+{
+  var keepDecimal = parseFloat
+}
