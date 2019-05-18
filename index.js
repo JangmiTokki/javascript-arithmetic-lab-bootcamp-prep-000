@@ -49,5 +49,5 @@ function makeInt(n)
 
 function preserveDecimal(n)
 {
-  var keepDecimal = parseFloat
+  var keepDecimal = parseFloat()
 }
